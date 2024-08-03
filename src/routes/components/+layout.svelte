@@ -13,7 +13,7 @@
 	let navigationRef: HTMLElement;
 
 	const GITHUB_DOCS_DIRECTORY =
-		"https://github.com/ieedan/geist-ui-svelte/blob/main/src/routes/components/";
+		"https://www.prtl.cc";
 
 	const routes: (Route | string)[] = [
 		"GENERAL",
@@ -374,7 +374,7 @@
 			<Spacer h={10} />
 			<div class="flex place-items-center gap-2">
 				<a
-					href="https://github.com/ieedan/geist-ui-svelte"
+					href="https://www.prtl.cc"
 					target="_blank"
 					class="flex place-items-center justify-center"
 				>
