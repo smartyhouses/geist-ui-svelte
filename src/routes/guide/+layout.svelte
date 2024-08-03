@@ -201,7 +201,7 @@
 			<Spacer h={10} />
 			<div class="flex place-items-center gap-2">
 				<a
-					href="https://github.com/ieedan/geist-ui-svelte"
+					href="https://www.prtl.cc"
 					target="_blank"
 					class="flex place-items-center justify-center"
 				>
